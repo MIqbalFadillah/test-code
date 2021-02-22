@@ -1,6 +1,4 @@
-# Node.Js with MYSQL Learning Project Rest-Api
-Enjoy Learning Backend process with Node.JS 
-and My SQL RDBMS :)
+# Lupa Dipisahkan dengan folder Utama Reac-Native, tolong dipisahkan
 
 ## How To Clone This Project ? 
 Clone in your directory and Install a Library Support for run this project :
